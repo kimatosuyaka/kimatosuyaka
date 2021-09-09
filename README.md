@@ -1,4 +1,4 @@
-### Hi there 👋 - My name es Luis Silva
+### Hi there 👋 - My name is Luis Silva
 
 I am a specialist in industrial process control, in other words: Automation and Industrial Control.
 But I am a lover of everything that has to do with programming, I especially like Javascript and its immense, or infinite? ecosystem, I don't know if life will be enough to know everything.
