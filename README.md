@@ -1,4 +1,4 @@
-### Hi there 👋 - my name es Luis Silva
+### Hi there 👋 - My name es Luis Silva
 
 <!--
 **kimatosuyaka/kimatosuyaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
