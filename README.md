@@ -4,7 +4,12 @@ I am a specialist in industrial process control, in other words: Automation and 
 But I am a lover of everything that has to do with programming, I especially like Javascript and its immense, or infinite? ecosystem, I don't know if life will be enough to know everything.
 
 Skills:
-- [javascript] 
+- HTML
+- CSS
+- JAVASCRIPT
+- REACT
+- NODE
+- EXPRESS
 
 <!--
 **kimatosuyaka/kimatosuyaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
